@@ -1,3 +1,5 @@
+https://medium.com/new-publication
+
 ### How to set up Google Colaboratory for the Lab Challenge Project
 
 **Description**
